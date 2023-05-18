@@ -1,0 +1,71 @@
+Mobile Responsive work on Fynoo Admin module (English):
+
+Dashboard
+Users => Business Owner
+		 Customer
+		 Individual Agent
+		 Company Agent
+		 Employee
+Purchase Order => Placed Orders
+				  Accepted Orders
+				  Cancelled Orders
+				  Returned Orders
+Products & Branches => Branches
+					   Products
+Services => Data entry
+			Delivery
+			Photography
+			Subscription Seller
+			Designer
+			Advertiser
+Master
+Language Master
+Customer Address Type
+Currency Master
+Bank Master
+Address Master
+Address Type Master
+Business Type Master
+Category Master
+Fynoo Details
+Parameter Master
+Lookup Master
+Payment Master
+DS Commission Master
+Education Master
+Education majors
+Agent Service
+Menu
+Menu Group
+Reason Master
+Courier Master
+Brand Master
+Fixed Fee Master
+Country Master
+City Master
+Unit Commission Master
+Tax Master
+Notification Master
+Password Validation
+
+Subscription
+
+Plan Type Master
+Subscription Master
+Subscription List
+Subscription Coupon Master
+
+Data Bank
+
+Data Sale Price Master
+Data Time Range Master
+Data Purchase Limit Master
+Data Bank Coupon Master
+Data Bank Product List
+Admin Data Bank
+
+Ads Spaces
+
+Ads Spaces Approval List
+Ads Spaces Coupon Master
+			
